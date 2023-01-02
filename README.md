@@ -59,3 +59,9 @@ prefix Sum <br>
 Bit Mask <br>
 Bit Manupilation <br>
 Greedy <br>
+
+#Resources Folder
+In this folder you will find all  what you need for theory foundation including :<br>
+MIT open courses in algorithms and data structure lectures <br>
+Alogorithms and data strucutres notes <br>
+Books
